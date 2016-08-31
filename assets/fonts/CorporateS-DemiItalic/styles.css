@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'CorporateS-DemiItalic';
+  src: url('CorporateS-DemiItalic.eot?#iefix') format('embedded-opentype'),  url('CorporateS-DemiItalic.otf')  format('opentype'),
+	     url('CorporateS-DemiItalic.woff') format('woff'), url('CorporateS-DemiItalic.ttf')  format('truetype'), url('CorporateS-DemiItalic.svg#CorporateS-DemiItalic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

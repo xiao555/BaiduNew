@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'CorporateS-LightItalic';
+  src: url('CorporateS-LightItalic.eot?#iefix') format('embedded-opentype'),  url('CorporateS-LightItalic.otf')  format('opentype'),
+	     url('CorporateS-LightItalic.woff') format('woff'), url('CorporateS-LightItalic.ttf')  format('truetype'), url('CorporateS-LightItalic.svg#CorporateS-LightItalic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'CorporateS-Bold';
+  src: url('CorporateS-Bold.eot?#iefix') format('embedded-opentype'),  url('CorporateS-Bold.otf')  format('opentype'),
+	     url('CorporateS-Bold.woff') format('woff'), url('CorporateS-Bold.ttf')  format('truetype'), url('CorporateS-Bold.svg#CorporateS-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
