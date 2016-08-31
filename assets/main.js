@@ -46,9 +46,9 @@
 
 	'use strict';
 	
-	__webpack_require__(11);
+	__webpack_require__(9);
 	
-	var _jquery = __webpack_require__(12);
+	var _jquery = __webpack_require__(10);
 	
 	var _jquery2 = _interopRequireDefault(_jquery);
 	
@@ -1793,15 +1793,13 @@
 /* 6 */,
 /* 7 */,
 /* 8 */,
-/* 9 */,
-/* 10 */,
-/* 11 */
+/* 9 */
 /***/ function(module, exports, __webpack_require__) {
 
 	module.exports = __webpack_require__.p + "jquery.min.js";
 
 /***/ },
-/* 12 */
+/* 10 */
 /***/ function(module, exports) {
 
 	module.exports = jQuery;
