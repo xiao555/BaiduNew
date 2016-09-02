@@ -3401,6 +3401,10 @@ h3.title span {
 #join h3.title span {
   background: #333;
 }
+#join #alert {
+  color: #fff;
+  font-family: 'Sansation', 'Microsoft YaHei', sanf-serif;
+}
 #join button {
   background: none;
   text-align: center;

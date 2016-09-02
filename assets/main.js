@@ -58,6 +58,10 @@
 	
 	(0, _jquery2.default)(document).ready(function ($) {
 	
+	  $("input[type='submit']").click(function () {
+	    $.scrollTo("#join", '500');
+	  });
+	
 	  $("#menu-toggle").click(function (event) {
 	    $("body").toggleClass('menu-open');
 	  });
